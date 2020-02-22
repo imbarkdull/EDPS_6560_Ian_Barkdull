@@ -1,0 +1,11 @@
+<!-- this is the code Navigation list that was replaced by the Nav grid at the top of my page-->
+
+<nav id="sec_nav"> 
+        <!-- Links to all different pages.  All open in same window with option to bo back to landing page except Contact me(new tab)-->
+      <ul>
+        <li><a href="About.html" target="_self">About Me</a></li>
+        <li><a href="Competencies.html" target="_self">Competencies</a></li>
+        <li><a href="Projects.html" target="_self">Projects</a></li>
+        <li><a href="Contact.html" target="_blank">Contact Me</a></li>
+      </ul>
+    </nav>

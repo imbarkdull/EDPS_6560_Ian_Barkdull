@@ -1,0 +1,58 @@
+:root {
+	/* Fonts */
+	--main-font-primary: "Crimson Text", serif;
+	--main-font-secondary: "Montserrat", sans-serif;
+	--main-font-tertiary: "Lato", sans-serif;
+	/* Colors */
+	--main-color-gray: #485359;
+	--main-color-white: #e9f0f2;
+	--main-color-black: #0d0d0d;
+	--main-color-light: #63802B;
+	--main-color-dark:  #47591E;
+	--main-color-light2: #B3412B;
+	--main-color-dark2: #8C3222;
+	--main-color-light3:#6B98F2;
+	--main-color-dark3: #071533;
+}
+
+/* Fonts and Color */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: var(--main-font-primary);
+	color: var(--main-color-white);
+}
+
+p {
+	font-family: var(--main-font-secondary);
+	color: var(--main-color-white);
+}
+
+.text_highlight {
+	font-family: var(--main-font-tertiary);
+	color: var(--main-color-light3);
+}
+
+#index.html{
+    height: 100%;
+    background-color: var(--main-color-dark3);
+}
+
+/* Section - Landing Page */
+#sec_lan {
+	height: ;
+}
+
+/* section- Navigation bar */
+#sec_nav{
+    
+}
+
+
+/* section- About Me */
+#sec_abo{
+  
+}
